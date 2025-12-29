@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 494cfacf1202440a4b82bb78e1e82e65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6851966162332367874
+    second: BlobPlayer_Blue_0
+  - first:
+      213: -1089311176538557888
+    second: BlobPlayer_Blue_1
+  - first:
+      213: -1114984789939417775
+    second: BlobPlayer_Blue_2
+  - first:
+      213: 1079843761724690904
+    second: BlobPlayer_Blue_3
+  - first:
+      213: -2468895774629829306
+    second: BlobPlayer_Blue_4
+  - first:
+      213: 2271409127722790892
+    second: BlobPlayer_Blue_5
+  - first:
+      213: 6075317971745714970
+    second: BlobPlayer_Blue_6
+  - first:
+      213: -1480968832539239773
+    second: BlobPlayer_Blue_7
+  - first:
+      213: -9038435460002894498
+    second: BlobPlayer_Blue_8
+  - first:
+      213: 3820484998358666895
+    second: BlobPlayer_Blue_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 112
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.07231617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c31dedbe2171f50800000000000000
+      internalID: 6851966162332367874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5123299, y: 0.06846313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0427e80a14df1e0f0800000000000000
+      internalID: -1089311176538557888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.08387518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d6d13d1a0141368263ed694281a73
+      internalID: 1024263448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 112
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.52845293, y: 0.1069932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fdc69ea5e4f4f3cbcffef67c223468
+      internalID: 270434699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5246592, y: 0.09543419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786d6f11ea2f4c7393ad7c134aa36c1
+      internalID: 507136591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 112
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47154647, y: 0.11855221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbc29c16c00488b8b3a4ddc5c2748c
+      internalID: 856243458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.09928724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a0f0b7c16de456cb832e0f61a1c271
+      internalID: 397814333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.48318672, y: 0.08607701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea57ff69decd4701b56941f71d43ca6
+      internalID: 1267998955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 92
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19946575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd57ce09386477fb8ebd0429a6fa67
+      internalID: 1227259824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobPlayer_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 93
+        width: 27
+        height: 6
+      alignment: 9
+      pivot: {x: 0.50685006, y: 0.22258377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fb82f520ab4179bdb7e32612cdfcc
+      internalID: -2040221247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13c8ac987173a4b9e9fd7f49d44acb7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BlobPlayer_Blue_0: 6851966162332367874
+      BlobPlayer_Blue_1: -1089311176538557888
+      BlobPlayer_Blue_2: 1024263448
+      BlobPlayer_Blue_3: 270434699
+      BlobPlayer_Blue_4: 507136591
+      BlobPlayer_Blue_5: 856243458
+      BlobPlayer_Blue_6: 397814333
+      BlobPlayer_Blue_7: 1267998955
+      BlobPlayer_Blue_8: 1227259824
+      BlobPlayer_Blue_9: -2040221247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
